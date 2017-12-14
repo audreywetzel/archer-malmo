@@ -1,0 +1,127 @@
+a{
+	margin: 20px;
+}
+a:hover {
+	 filter:drop-shadow(5px 5px 5px #E87F00);
+
+}
+body{
+	background-color: #BABAAD;
+  padding: 0;
+  margin:0;
+}
+* {
+  box-sizing: border-box;
+}s
+div.clear{
+  clear: both;
+}
+header{
+	text-align: center;
+}
+header img{ 
+	width: 30%; 
+	margin: 0 auto;
+	padding-bottom: 45px;
+	padding-top:45px;
+ }
+ 
+ div.top{
+ 	background-color: #BABAAD;
+ }
+ div.office{
+ 	background: url(../img/office.jpg) no-repeat center center ;
+ 	float: left;
+ 	width: 48%;
+ 	height: 500px;
+ 	border-top: #EB632E 45px solid;
+      border-bottom: #EB632E 45px solid;
+      border-left:#EB632E 45px solid;
+      border-right: #EB632E 45px solid;
+      box-shadow: 10px 10px 5px grey;
+      margin-left: 15px;
+      
+
+
+ }
+ div.text-wrap-1{
+ 	margin-left: 30px; 
+ 	display: inline-block;
+ 	width: 48%;
+ 	font-size: 22px;
+ 	color: #424242;
+ 	  text-shadow: 2px 2px 5px white;
+ 	  padding: 85px;
+
+ }
+
+
+ div.text-wrap-2{
+	margin-left: 30px; 
+ 	display: inline-block;
+ 	width: 48%;
+ 	font-size: 22px;
+ 	color: #424242;
+ 	padding-top: 30px;
+ 	text-shadow: 2px 2px 5px white;
+ 	padding: 85px;
+ }
+
+div.presentation{
+ 	background: url(../img/presi.jpg) no-repeat center center ;
+ 	float: right;
+ 	width: 48%;
+ 	height: 500px;
+ 	padding-top: 50px;
+ 	 border-top:  #424242 45px solid;
+      border-bottom: #424242 45px solid;
+      border-left:  #424242 45px solid;
+      border-right: #424242 45px solid;
+      box-shadow: 10px 10px 5px #EB632E;
+      margin-right: 15px;
+}
+
+
+div.text-wrap-3{
+	margin-left: 30px; 
+ 	display: inline-block;
+ 	width: 48%;
+ 	font-size: 22px;
+ 	color: #424242;
+ 	padding-top: 100px;
+ 	text-shadow: 2px 2px 5px white;
+ 	padding: 85px;
+ }
+div.group{
+ 	background: url(../img/group.jpg) no-repeat center center ;
+ 	float: left;
+ 	width: 48%;
+ 	height: 500px;
+ 	padding-top: 100px;
+ 	border-top: #EB632E 45px solid;
+     border-bottom: #EB632E 45px solid;
+     border-left:#EB632E 45px solid;
+     border-right: #EB632E 45px solid;
+     box-shadow: 10px 10px 5px grey;
+     margin-left: 15px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
